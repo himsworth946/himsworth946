@@ -1,0 +1,9 @@
+<button>Like</button> * is the button tag and creates a button with the word like as its label
+<h1>The age APP</h1> * h1 is the main headline tag, h2-6 create smaller headlines 
+<br> * breaks a line, this is an empty tag as it has no content and no closing tag is required
+<p> Welcome to the Age APP </P> * is the paragraph tag which let's you add text
+<em>ageAPP</em> * element emphases text by making it italic
+<strong>ageAPP</strong> * makes the text bold
+<ahref="https://ageapp.com">ageAPP<a/> * is the anchor tag for creating links  
+href is an attribute, attributes provide extra info and go inside the opening tag and before the closing >
+NEXT UP IS ADDING IMAGES      
